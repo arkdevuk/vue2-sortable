@@ -9,6 +9,8 @@ Installation
 
 #### NPM
 
+https://www.npmjs.com/package/vue2-sortable
+
 ```bash
 npm install vue2-sortable
 ```
