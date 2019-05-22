@@ -27,7 +27,7 @@ Common Use Cases
 
 #### Update Source Data Order
 
-```
+```javascript
 new Vue({
   el: 'body',
   data: {
@@ -41,7 +41,7 @@ new Vue({
 });
 ```
 
-```
+```html
 <ul v-sortable2="{ onUpdate: onUpdate }">
     <li v-for="item in list">{{ item }}</li>
  </ul>
